@@ -1,0 +1,132 @@
+{
+    "motw": {
+      "Settings": {
+        "Title": "Nadpisanie opcji wyboru",
+        "Hint": "The Monster of the Week module automatically hides all PbtA sheet options (formula, forward, ongoing, hold, roll mode). If you want to make your own selections, please check this option off."
+      },
+      "rollResults": {
+              "success": "Sukes!",
+              "partial": "Częściowy Sukces",
+              "failure": "Pudło..."
+      },
+      "character": {
+        "stats": {
+          "cool": "Spokój",
+          "tough": "Hart",
+          "charm": "Urok",
+          "sharp": "Spryt",
+          "weird": "Dziw"
+        },
+              "attrTop": {
+                  "harm": {
+                      "label": "Obrażenia",
+                      "description": "Kiedy otrzymasz 4 obrażenia zaznacz Niestabilny"
+                  },
+                  "unstable": {
+                      "label": "Niestabilny",
+                      "description": "(Niestabilne obrażenia pogarszają się z czasem)",
+                      "checkboxLabel": "Niestabilne Rany"
+                  },
+                  "luck": {
+                      "label": "Fuks",
+                      "description": " Zaznacz fuksa, by zmienić wynik rzutu na 12 lub uniknąć obrażeń."
+                  },
+                  "xp": {
+                      "label": "Doświadczenie",
+                      "description": "Za każdym razem gdy Pudło, lub gdy każe ci Ruch, zaznacz doświadczenie"
+                  }
+              },
+              "attrLeft": {
+                  "armour": {
+                      "label": "Pancerz",
+                      "description": "Pancerz rdukuje ilość obrażeń jaką masz przyjąć."
+                  },
+                  "luckspecial": {
+                      "label": "Specyfika Fuksa"
+                  },
+                  "look": {
+                      "label": "Wygląd"
+                  },
+                  "improvements": {
+                      "label": "Rozwinięcia"
+                  },
+                  "advancedimprovements": {
+                      "label": "Zaawansowane Rozwinięcia"
+                  }
+              },
+              "moveTypes": {
+                  "basic": {
+                      "label": "Ruchy Podstawowe"
+                  },
+                  "class": {
+                      "label": "Ruchy Roli"
+                  },
+                  "altMove": {
+                      "label": "Ruchy Alterantywne"
+                  }
+              },
+              "equipmentTypes": {
+                  "gear": {
+                      "label": "Sorzęt"
+                  },
+                  "weapon": {
+                      "label": "Broń"
+                  },
+                  "transport": {
+                      "label": "Pojazd"
+                  },
+                  "armour": {
+                      "label": "Pancerz"
+                  }
+              }
+      },
+          "npc": {		
+              "attrTop": {
+                  "harm": {
+                      "label": "Próg Obrażeń"
+                  },
+                  "armour": {
+                      "label": "Pancerz"
+                  },
+                  "type": {
+                      "label": "Rodzaj NPCa",
+                      "option": {
+                          "monster": "Potwór",
+                          "minion": "Pionek",
+                          "bystander": "Statysta",
+                          "location": "Miejsce"
+                      }
+                  }
+              },
+              "attrLeft": {
+                  "powers": {
+                      "label": "Popęd"
+                  },
+                  "attacks": {
+                      "label": "Ataki"
+                  },
+                  "weakness": {
+                      "label": "Słabości"
+                  },
+                  "desc": {
+                      "label": "Opis"
+                  },
+                  "motivation": {
+                      "label": "Motywacja"
+                  }
+              },
+              "moveTypes": {
+                  "custom": {
+                      "label": "Ruch niestandarodowy"
+                  }
+              }
+          }
+    },
+    "PBTA":{
+       "Description":"Opis",
+       "Moves":"Ruchy",
+       "Equipment":"Sprzęt",
+       "Biography": "Przełość",
+       "Playbook": "Rola"
+    }
+  }

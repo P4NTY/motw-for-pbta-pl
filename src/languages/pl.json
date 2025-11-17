@@ -1,0 +1,132 @@
+{
+  "motw": {
+    "Settings": {
+      "Title": "Nadpisz wybrane ustawienia",
+      "Hint": "Moduł „Potwór Tygodnia” automatycznie ukrywa wszystkie opcje arkusza PbtA (formuła, przekazywanie, trwające, wstrzymanie, tryb rzutu). Jeśli chcesz dokonać własnego wyboru, zaznacz tę opcję."
+    },
+    "rollResults": {
+			"success": "Sukces!",
+			"partial": "Częściowy",
+			"failure": "Porażka..."
+    },
+    "character": {
+      "stats": {
+        "cool": "Spokój",
+        "tough": "Hart",
+        "charm": "Urok",
+        "sharp": "Spryt",
+        "weird": "Dziw"
+      },
+			"attrTop": {
+				"harm": {
+					"label": "Rany",
+					"description": "Po otrzymaniu 4 Rany stajesz się Niestabilny."
+				},
+				"unstable": {
+					"label": "Niestabilny",
+					"description": "Twój stan będzie się pogarszał z czasem.",
+					"checkboxLabel": "Niestabliność"
+				},
+				"luck": {
+					"label": "Fuks",
+					"description": "Zamień wynik na 12 lub uniknij obrażeń."
+				},
+				"xp": {
+					"label": "Doświadczenie",
+					"description": "Przy porażce lub kiedy mói o tym ruch."
+				}
+			},
+			"attrLeft": {
+				"armour": {
+					"label": "Pancerz",
+					"description": "Chroni przed otrzymaniem Ran."
+				},
+				"luckspecial": {
+					"label": "Zasada Fuksa"
+				},
+				"look": {
+					"label": "Wygląd"
+				},
+				"improvements": {
+					"label": "Rozwinięcia"
+				},
+				"advancedimprovements": {
+					"label": "Rozwinięcia Zaaw."
+				}
+			},
+			"moveTypes": {
+				"basic": {
+					"label": "Podstawowe Ruchy"
+				},
+				"class": {
+					"label": "Ruchy Archetypu"
+				},
+				"altMove": {
+					"label": "Alternatywne Ruchy"
+				}
+			},
+			"equipmentTypes": {
+				"gear": {
+					"label": "Sprzęt"
+				},
+				"weapon": {
+					"label": "Bronie"
+				},
+				"transport": {
+					"label": "Pojazd"
+				},
+				"armour": {
+					"label": "Pancerz"
+				}
+			}
+    },
+		"npc": {		
+			"attrTop": {
+				"harm": {
+					"label": "Próg Ran"
+				},
+				"armour": {
+					"label": "Pancerz"
+				},
+				"type": {
+					"label": "Typ NPCta",
+					"option": {
+						"monster": "Potwór",
+						"minion": "Minion",
+						"bystander": "Statysta",
+						"location": "Miejsce"
+					}
+				}
+			},
+			"attrLeft": {
+				"powers": {
+					"label": "Pasja"
+				},
+				"attacks": {
+					"label": "Ataki"
+				},
+				"weakness": {
+					"label": "Słabości"
+				},
+				"desc": {
+					"label": "Opis"
+				},
+				"motivation": {
+					"label": "Motywacja"
+				}
+			},
+			"moveTypes": {
+				"custom": {
+					"label": "Własny Ruch"
+				}
+			}
+		}
+  },
+  "PBTA":{
+	 "Description":"Opis",
+	 "Moves":"Ruchy",
+	 "Equipment":"Przedmiot",
+	 "Biography": "Bio",
+	 "Playbook": "Archetyp"
+  }
+}
